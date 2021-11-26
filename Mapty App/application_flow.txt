@@ -1,5 +1,5 @@
 
-Use Stories:
+User Stories:
 
 1>As a user, I want to log my running workout with location, distance, time, pace and steps/minute, so I can keep a log of all my running.
 2>As a user, I want to log my cyclint workouts with location, distance, time, speed and elevation gain, so I can keep a log of all my cycling.
